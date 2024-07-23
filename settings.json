@@ -3,28 +3,28 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/CPrPznTPo/",
     "classDetails": [
         {
-            "name": "sm",
+            "name": "sm상",
             "title": "sm상",
             "explain": "#모태미녀미남#사슴상",
             "celeb": "sm상연예인:소녀시대 윤아, 레드벨벳 아이린,엔시티 태용,엑소 도경수 ",
             "color": "rgba(255, 217, 254, 1)"
         },
         {
-            "name": "스타쉽",
+            "name": "스타쉽상",
             "title": "스타쉽상",
             "explain": "#미녀미남#대형견상",
             "celeb": "스타쉽상연예인:아이브 안유진,크래비티 형준,시스타 보라",
             "color": "rgba(202, 254, 255, 1)"
         },
         {
-            "name": "yg",
+            "name": "yg상",
             "title": "yg상",
             "explain": "#매력있는미녀미남#고양이상",
             "celeb": "yg상연예인:블랙핑크 제니,빅뱅 지드래곤,베이비몬스터 아현",
             "color": "rgba(255, 255, 111, 1)"
         }
        {
-            "name": "하이브",
+            "name": "하이브상",
             "title": "하이브상",
             "explain": "#청순한미녀미남#알수없는상",
             "celeb": "하이브상 연예인:아일릿 원희,뉴진스 해린,투바투 수빈,bts 뷔",
