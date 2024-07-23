@@ -1,8 +1,13 @@
-"footerText": "&copy; 허석테크 2024. All Rights Reserved.",
+{
+    "pageTitle": "내가 아이돌이라면",
+    "mainTitle": "난 어떤 소속사 상일까",
+    "subtitle": "얼굴로 보는 소속사 테스트",
+    "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/CPrPznTPo/",
     "classDetails": [
         {
+
             "name": "sm상",
             "title": "sm상",
             "explain": "#모태미녀미남#사슴상",
